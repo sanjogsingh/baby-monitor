@@ -1,0 +1,32 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+body
+{
+background-image:url("bg.avif") ;
+background-size: cover;
+background-position: center;
+}
+
+#status,#objectNumber
+{
+font-size: 18px;
+}
+
+#title
+{
+margin-top: 0;
+padding: 10px;
+}
+
+canvas
+{
+border: 10px rgb(66, 66, 21) solid;
+margin-top: 40px;
+box-shadow: 10px 10px 10px rgb(37, 255, 175);
+border-radius: 14px;
+}
